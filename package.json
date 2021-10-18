@@ -1,0 +1,19 @@
+{
+  "name": "pollmaster",
+  "version": "1.0.0",
+  "description": "This was created during my time as a student at Code Chrysalis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitVermakgp/PollMaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitVermakgp/PollMaster/issues"
+  },
+  "homepage": "https://github.com/SumitVermakgp/PollMaster#readme"
+}
